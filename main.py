@@ -1,3 +1,5 @@
+# Copy and Paste below into Python after following the readme document.
+
 from gtts import gTTS # Text 2 Speech module. Uses Google API. Requires you to remove things marked.
 from playsound import playsound # Play audio module so you don't need to manually play it.
 # Only remove playsound if you don't want automated messages.
