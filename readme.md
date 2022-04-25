@@ -2,8 +2,11 @@
 Execute these commands to install the modules:
 
 pip install gtts
+
 pip install playsound
+
 pip install PyObjC
+
 pip install nwsapy
 
 
