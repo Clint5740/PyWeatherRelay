@@ -1,5 +1,13 @@
+# Made by W4LLST0NE, for Ryan Hall.
+This is a announcer/TTS announcer program for emergency alerts. Still going through troublehshooting.
+To use, it requires using Python. I suggest using JetBrains PyCharm, but only for editing.
+
+https://www.python.org/downloads/
+
+
+
 # ***HOW TO SET UP***
-Execute these commands to install the modules:
+Execute these commands in Python IDLE to install the modules:
 
 pip install gtts
 
