@@ -15,7 +15,7 @@ Refresh = 180 # How many seconds do you want between announcements?
 from nwsapy import nwsapy # NWS API, do not touch!
 
 
-nwsapy.set_user_agent("Name", "capybaradaddy@gmail.com") # REQUIRED to enter the API.
+nwsapy.set_user_agent("Name", "Email") # REQUIRED to enter the API.
 while 1 == 1:
     wait(5) # Just so it doesn't crash. Checks for anything every 5 seconds.
     Extreme = nwsapy.get_active_alerts(event = ["Tornado Warning", "Severe Thunderstorm Warning", "Extreme Wind Warning", "High Wind Warning",
