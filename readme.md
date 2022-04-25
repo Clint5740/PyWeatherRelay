@@ -1,4 +1,4 @@
-# Made by W4LLST0NE, for Ryan Hall.
+# Made by W4LLST0NE.
 This is a announcer/TTS announcer program for emergency alerts. Still going through troublehshooting.
 To use, it requires using Python. I suggest using JetBrains PyCharm, but only for editing.
 
