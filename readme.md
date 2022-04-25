@@ -22,7 +22,7 @@ pip install nwsapy
 If you are not a Mac/Linux user, skip this segment.
 *Linux / Mac users will be required to install Brew + Shapely.*
 
-# To do so, paste this in your terminal:
+To do so, paste this in your terminal:
 
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
