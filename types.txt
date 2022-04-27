@@ -1,0 +1,24 @@
+
+WINTER (Snowstorms, blizzards, etc.
+Winter Storm Watch
+Blizzard Warning
+Winter Storm Warning
+Ice Storm Warning
+Winter Weather Advisory
+Freeze Warning
+Wind Chill Watch
+Wind Chill Advisory
+Wind Chill Warning
+
+TORNADIC (Tornado Related)
+Severe Thunderstorm Warning
+Tornado Watch
+Tornado Warning
+
+SEVERE (High Priority)
+Tornado Warning
+Severe Thunderstorm Warning
+Extreme Wind Warning
+High Wind Warning
+Tsunami Warning
+Flash Flood Warning
