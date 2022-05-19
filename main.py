@@ -25,17 +25,21 @@ warningtype = input("")
 
 warnging = nwsapy.get_active_alerts(event=[warningtype])
 
-warningcount = 0
-if warnging:
-    warningcount = 1
+warningcount = 1
+
 
 # Hydrologic Outlook
 types = "Alert or Update"
-
+WC3 == WC
 def run():
     global warningcount
     global WC
-    WC = 0
+    global WC2
+    WC2 = True
+    global WC3
+    if WC3 != WC:
+        warningcount += 1
+        wait(0.1)
     while warningcount != 0:
         warningcount = 0
         if nwsapy.get_active_alerts(type=types):
@@ -49,5 +53,6 @@ def run():
                     filestart()
                     wait(0.2)
                     warningcount -= 1
+                    WC3 == WC
 while 1==1:
     run()
