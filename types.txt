@@ -1,24 +1,132 @@
+Multiple entries must be seperated by COMMA.
 
-WINTER (Snowstorms, blizzards, etc.
-Winter Storm Watch
-Blizzard Warning
-Winter Storm Warning
-Ice Storm Warning
-Winter Weather Advisory
-Freeze Warning
-Wind Chill Watch
-Wind Chill Advisory
-Wind Chill Warning
+VALID ALERT TYPES:
 
-TORNADIC (Tornado Related)
-Severe Thunderstorm Warning
-Tornado Watch
-Tornado Warning
-
-SEVERE (High Priority)
-Tornado Warning
-Severe Thunderstorm Warning
+911 Telephone Outage Emergency
+Extreme Cold Watch
+High Wind Watch
+Small Craft Advisory For Rough Bar
+Administrative Message
+Extreme Fire Danger
+Hurricane Force Wind Warning
+Small Craft Advisory For Winds
+Air Quality Alert
 Extreme Wind Warning
-High Wind Warning
-Tsunami Warning
+Hurricane Force Wind Watch
+Small Stream Flood Advisory
+Air Stagnation Advisory
+Fire Warning
+Hurricane Local Statement
+Snow Squall Warning
+Arroyo And Small Stream Flood Advisory
+Fire Weather Watch
+Hurricane Warning
+Special Marine Warning
+Ashfall Advisory
+Flash Flood Statement
+Hurricane Watch
+Special Weather Statement
+Ashfall Warning
 Flash Flood Warning
+Hydrologic Advisory
+Storm Surge Warning
+Avalanche Advisory
+Flash Flood Watch
+Hydrologic Outlook
+Storm Surge Watch
+Avalanche Warning
+Flood Advisory
+Ice Storm Warning
+Storm Warning
+Avalanche Watch
+Flood Statement
+Lake Effect Snow Advisory
+Storm Watch
+Beach Hazards Statement
+Flood Warning
+Lake Effect Snow Warning
+Test
+Blizzard Warning
+Flood Watch
+Lake Effect Snow Watch
+Tornado Warning
+Blizzard Watch
+Freeze Warning
+Lake Wind Advisory
+Tornado Watch
+Blowing Dust Advisory
+Freeze Watch
+Lakeshore Flood Advisory
+Tropical Depression Local Statement
+Blowing Dust Warning
+Freezing Fog Advisory
+Lakeshore Flood Statement
+Tropical Storm Local Statement
+Brisk Wind Advisory
+Freezing Rain Advisory
+Lakeshore Flood Warning
+Tropical Storm Warning
+Child Abduction Emergency
+Freezing Spray Advisory
+Lakeshore Flood Watch
+Tropical Storm Watch
+Civil Danger Warning
+Frost Advisory
+Law Enforcement Warning
+Tsunami Advisory
+Civil Emergency Message
+Gale Warning
+Local Area Emergency
+Tsunami Warning
+Coastal Flood Advisory
+Gale Watch
+Low Water Advisory
+Tsunami Watch
+Coastal Flood Statement
+Hard Freeze Warning
+Marine Weather Statement
+Typhoon Local Statement
+Coastal Flood Warning
+Hard Freeze Watch
+Nuclear Power Plant Warning
+Typhoon Warning
+Coastal Flood Watch
+Hazardous Materials Warning
+Radiological Hazard Warning
+Typhoon Watch
+Dense Fog Advisory
+Hazardous Seas Warning
+Red Flag Warning
+Urban And Small Stream Flood Advisory
+Dense Smoke Advisory
+Hazardous Seas Watch
+Rip Current Statement
+Volcano Warning
+Dust Advisory
+Hazardous Weather Outlook
+Severe Thunderstorm Warning
+Wind Advisory
+Dust Storm Warning
+Heat Advisory
+Severe Thunderstorm Watch
+Wind Chill Advisory
+Earthquake Warning
+Heavy Freezing Spray Warning
+Severe Weather Statement
+Wind Chill Warning
+Evacuation - Immediate
+Heavy Freezing Spray Watch
+Shelter In Place Warning
+Wind Chill Watch
+Excessive Heat Warning
+High Surf Advisory
+Short Term Forecast
+Winter Storm Warning
+Excessive Heat Watch
+High Surf Warning
+Small Craft Advisory
+Winter Storm Watch
+Extreme Cold Warning
+High Wind Warning
+Small Craft Advisory For Hazardous Seas
+Winter Weather Advisory
