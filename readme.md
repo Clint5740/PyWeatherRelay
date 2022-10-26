@@ -1,5 +1,6 @@
 This is a announcer/TTS announcer program for emergency alerts. Still going through troubleshooting.
 Requires Python 3.9
+
 Will eventually be compatible with .exe's through tkinter.
 
 https://www.python.org/downloads/
